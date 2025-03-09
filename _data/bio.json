@@ -1,35 +1,37 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Melvyn Saint-Vil",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
+    "picture": "https://github.com/msaintvi.png",
     "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "phone": "06 44 94 14 O2",
+    "website": "https://msaintvi.github.io",
+    "summary": "J'étudie pour une certification à la formation Zone01 de Rouen. Je gradue en mai, 2024.",
+    "location": { "address": "7, Place Saint-Marc", "postalCode": "76000", "city": "Rouen", "countryCode": "France", "region": "Europe" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "msaintvi", "url": "http://github.com/msaintvi" },
+      { "network": "linkedin", "username": "msaintvi", "url": "http://linkedin.com/in/msaintvi" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Écriture" },
+    { "name": "Automatisation" },
+    { "name": "Machine Learning" },
+    { "name": "Durabilité" },
+    { "name": "Innovation" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "Golang", "Rust", "Javascript", "Python", "Ruby", "C++" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Ubuntu", "Git/GitHub", ]
+    },
+    {
+      "name": "IDE",
+      "keywords": [ "Visual Code Studio", "Jupyter Notebooks", ]
     }
   ],
   "education": [
@@ -37,8 +39,8 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2018)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "startDate": "2023-05-22",
+      "endDate": "2025-05-22",
       "courses": [
       ]
     }
